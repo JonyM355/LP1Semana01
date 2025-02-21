@@ -16,6 +16,8 @@ namespace AskForInput
             Console.WriteLine("Insert a real number");
             double f = float.Parse(Console.ReadLine());
             
+
+            Console.WriteLine($"{i} plus {f} is equal to {i + f}");
         }
     }
 }
