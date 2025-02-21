@@ -28,6 +28,13 @@ namespace VariousTypes
             float f1 = 9.654f;
             decimal dml1 = 0.482m;
             Console.WriteLine($"{d1}\n{f1}\n{dml1}");
+
+
+            //Ex.3 Booleans
+
+            bool T = true;
+            bool F = false;
+            Console.WriteLine($"{T}\n{F}");
         }
     }
 }
