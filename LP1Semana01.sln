@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManyStrings", "ManyStrings\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AskForInput", "AskForInput\AskForInput.csproj", "{EC3CFBB7-BA93-4A6C-800E-516702D00B1E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smiley", "Smiley\Smiley.csproj", "{47E4CE72-001A-4950-858B-95F85775BC13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{EC3CFBB7-BA93-4A6C-800E-516702D00B1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC3CFBB7-BA93-4A6C-800E-516702D00B1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC3CFBB7-BA93-4A6C-800E-516702D00B1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47E4CE72-001A-4950-858B-95F85775BC13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47E4CE72-001A-4950-858B-95F85775BC13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47E4CE72-001A-4950-858B-95F85775BC13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47E4CE72-001A-4950-858B-95F85775BC13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
